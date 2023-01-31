@@ -1,0 +1,88 @@
+body{
+    background-color: black;
+}
+.instagram{
+    display: flex;
+    justify-content: center;
+}
+
+
+.post{
+    background-color: white;
+    width: 400px;
+    height: 550px;
+    margin-top: 20px;
+}
+.post-header{
+    width: 200px;
+    height: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.izquierda{
+    display: flex;
+
+}
+i{
+    font-size: 30px;
+    padding-top: 10px;
+}
+.izquierdahijo{padding-top: 10px;
+margin-right: 275px;
+margin-left: 10px;
+font-size: 12px;}
+img{
+    width: 400px;
+    height: 300px;
+}
+.post-body{
+    width: 400px;
+    height: 136px;
+    background-color: white;
+   
+}
+.post-body1{
+    width: 400px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.post-body2{
+    width: 400px;
+    height: 30px;
+    background-color: white;
+    padding: 0%;
+}
+.post-body3{
+    width: 400px;
+    height: 110px;
+    background-color: white;
+}
+
+.save{
+   padding-left: 217px;
+    justify-content: flex-end;
+}
+p{padding-bottom: 25px;
+    padding-left: 12px;
+    padding-right: 12px ;
+font-size: 14px;}
+#html5{margin-left: 10px;
+font-size: 30px;}
+#trespuntos{margin-right: 10px;
+    font-size: 30px;}
+#save{margin-right: 20px;
+    font-size: 30px;}
+#like{margin-left: 20px;
+
+font-size: 30px;}
+#comment{margin-right: 10px;
+    font-size: 30px;
+margin-left: -210px;}
+    #send{font-size: 30px;
+        margin-left: -225px;}
+
+
